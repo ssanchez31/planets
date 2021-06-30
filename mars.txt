@@ -1,3 +1,6 @@
 Cold and dry, but everything is my favourite color 
 The two moons may be a problem for wolfman.
 But the mummy will appreciate the lack of humidity.
+A new line here
+Hello this is Savannah, and today I learned how to use nano mars.txt command :D
+
